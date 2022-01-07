@@ -36,12 +36,3 @@ if __name__ == '__main__':
 #     }
 #   })
 
-# $.ajax({
-#     type: "POST",
-#     url: "/test",
-#     data: { title_give:'봄날은간다' },
-#     success: function(response){
-#        console.log(response)
-#     }
-#   })
-
